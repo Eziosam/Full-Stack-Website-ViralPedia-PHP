@@ -1,2 +1,5 @@
 # ViralPedia
-A dynamic website built using html5 ,css3 ,bootstrap5,php7
+ViralPedia is a blog site related to viruses and outbreaks, pandemics caused by viruses.
+<br> Frontend: HTML, CSS , Bootstrap
+<br> Backend: PHP
+<br> Database:  Mysql
