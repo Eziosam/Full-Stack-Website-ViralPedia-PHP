@@ -4,6 +4,6 @@ ViralPedia is a blog site related to viruses and outbreaks, pandemics caused by 
 <br> Backend: PHP
 <br> Database:  Mysql
 
-To Run The Project ::
+# To Run The Project ::
 1. Setup Xampp
 2. Run index.php
